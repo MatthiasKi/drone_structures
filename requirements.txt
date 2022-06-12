@@ -1,0 +1,10 @@
+numpy
+torch
+scipy
+git+https://github.com/MatthiasKi/tvsclib
+scikit-learn
+pyfaust
+git+https://github.com/SvenGronauer/phoenix-drone-simulation
+tensorboard
+tensorflow
+pandas

@@ -1,0 +1,7 @@
+*.npy
+*.p
+*.pickle
+*.pyc 
+
+benchmark/
+__pycache__/
